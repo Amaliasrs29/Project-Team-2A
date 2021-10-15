@@ -22,7 +22,7 @@
   }
 }
 
-@media (nax-width: 1000px) {
+@media (max-width: 1000px) {
   .card-container {
     display: flex;
     flex-direction: column;
