@@ -2,3 +2,9 @@ html, body {
   width: 100%;
   height: auto;
 }
+
+ul {
+  position: absolute;
+  right: 25px;
+  margin: 0px;
+}
